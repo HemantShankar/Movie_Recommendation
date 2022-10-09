@@ -1,4 +1,4 @@
-# Movie_Recommendation
+# Movie_Recommendation_System
 Ever happened that you watched a movie and wanted to watch an another movie which is either similar or of same type of the movie you just watched. If yes, then this project is for you. It is a model that provides you a list of movies names that are similar to movie you just watched. It also tells you the ratings of the movies, so that you don't have to waste your time on movies that are not good.
 
 ### You can get your desired list in few steps and the steps are as follows:
